@@ -23,4 +23,4 @@ The idea is that this service will be used to house student, staff, and school i
 The idea for this project has been in the works for a little while, but thanks to Patriot Hacks, we've finally had the opportunity to create it! Thank you all!
 
 
-By Samuel Rembisz, Gabriel Hogan, xxx, & xxx
+By Samuel Rembisz, Gabriel Hogan, Derrick Nguyen, & xxx
