@@ -6,7 +6,7 @@ Hi there! This is the submission for Reman Hogbisz at Patriot Hacks for <strong>
 
 ## Where to find the project
 
-The projected can be found at [glacier.hogbisz.com](https://glacier.hogbisz.com)
+The project can be found at [glacier.hogbisz.com](https://glacier.hogbisz.com)
 
 ## What is GlacierLMS?
 
